@@ -1,0 +1,17 @@
+{
+  "name": "fp-reference",
+  "version": "1.0.0",
+  "description": "Reference implementations of functional programming utility methods",
+  "main": "utils.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "fp",
+    "functional",
+    "programming"
+  ],
+  "author": "Alfonso Millan",
+  "license": "ISC"
+}
